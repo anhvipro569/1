@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Crazzy Hub",
+    Title = "Hưng Hub",
     Text = "Đang tải...",
     Icon = "rbxassetid://14904129682"
 })
@@ -7,7 +7,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 wait(3)
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Crazzy Hub",
+    Title = "Hưng Hub",
     Text = " ✅ Tải thành công!",
     Icon = "rbxassetid://14904129682"
 })
